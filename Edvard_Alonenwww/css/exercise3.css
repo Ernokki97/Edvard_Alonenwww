@@ -1,0 +1,30 @@
+h1.warning{
+    color: rgb(36, 29, 29);
+    background-color: rgb(192, 166, 241);
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+a:hover{
+    color: rgb(201, 66, 66);
+    background-color: rgb(217, 206, 240);
+    font-size: 16px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.box{
+    float:right;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+.border{
+    float: right;
+    border: thin,black;
+    line-height:30px;  
+    width:100px;
+}
+.video {
+    width: 100%;
+    height: auto;
+}
