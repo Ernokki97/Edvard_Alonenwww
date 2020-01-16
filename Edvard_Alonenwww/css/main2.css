@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(150, 150, 218)
+}
+.container{
+    background-color: white;
+    max-width: 800px;
+}
+.bluebg{
+    background-color: rgb(95, 95, 238)
+}
