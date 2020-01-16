@@ -1,0 +1,39 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+h1 {
+    color: red;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+p {
+    font-size: 15px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+p::first-letter{
+    color: red;
+    font-size: larger;
+}
+
+header {
+    color: rgb(18, 17, 219);
+}
+h1.warning,note{
+    color: blue;
+    background-color: yellowgreen;
+}
+#note1 {
+    color: green;
+}
+.comment{
+    border: 4px solid #666;
+    padding: 5px;
+    background-color: rgb(250, 17, 250)
+}
+
+article > p{
+    font-weight: bold;
+    font-color: red;
+}
