@@ -1,0 +1,39 @@
+.box{
+    float:left;
+    border: 0px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    width: 140px;
+    background-color: rgb(61, 61, 61)
+}
+
+header
+{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://www.jakpost.travel/wimages/large/157-1572321_light-background-images-for-html-page.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+h1 {
+    float: right;
+    color: rgb(231, 229, 229);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 17px;
+    height: 30px;
+    line-height: 60px;
+    
+}
+.nav-item{
+    line-height: 0px;
+}
+.navbar-brand{
+    line-height: 10px;
+}
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    font-size: 15px;
+    text-align: center;
+    color: white;
+    background-color: rgb(65, 65, 65);
+}
